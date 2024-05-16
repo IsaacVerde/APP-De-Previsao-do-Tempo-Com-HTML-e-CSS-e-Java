@@ -1,0 +1,1 @@
+Neste repositório, estarei armazenando um projeto de um site que aprendi fazer no youtube, no objetivo de pesquisar as cidades e exibirem a situaçao climatica da cidade, ou seja um site de previsão de tempo...Utilizei HTml, CSs e Java para fazer. Obrigado a todos.
